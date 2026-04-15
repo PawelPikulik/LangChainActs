@@ -1,4 +1,0 @@
-# Credentials / secrets (keep these OUT of git)
-vertexai-*.json
-*service-account*.json
-*service_account*.json
